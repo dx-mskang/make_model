@@ -1,0 +1,12 @@
+# === Core Deep Learning Framework ===
+tensorflow
+
+# === Data Loading ===
+tensorflow-datasets
+
+# === ONNX Conversion & Runtime ===
+tf2onnx
+onnxruntime
+
+# === (Optional) For data visualization ===
+matplotlib
